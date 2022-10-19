@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1585868111 source:e:\c++ projects\oop challange\src\movies.cpp
+	"movies.h"
+
+1585868101 e:\c++ projects\oop challange\include\movies.h
+
+1585869674 source:e:\c++ projects\oop challange\src\movie.cpp
+	"movie.h"
+	<string>
+	<iostream>
+
+1586021066 e:\c++ projects\oop challange\include\movie.h
+	<string>
+	<iostream>
+
+1586020913 source:e:\c++ projects\oop challange\main.cpp
+	<iostream>
+	<string>
+	"movie.h"
+

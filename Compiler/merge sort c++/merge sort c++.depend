@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652402758 source:e:\c++ projects\compiler\merge sort c++\main.cpp
+	<iostream>
+	<ctime>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1593730269 source:e:\c++ projects\1code forces\foad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
+1593800069 source:c:\users\mohamed yasser\desktop\new pro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

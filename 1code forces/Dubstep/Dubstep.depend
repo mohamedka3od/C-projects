@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1587829558 source:e:\c++ projects\1code forces\dubstep\main.cpp
+	<bits/stdc++.h>
+	<cstring>
+	<string.h>
+	<string>
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1647291566 source:e:\c++ projects\parallel\task1withparallel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<omp.h>
+

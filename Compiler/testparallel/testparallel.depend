@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1652488830 source:e:\c++ projects\compiler\testparallel\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<omp.h>
+	<math.h>
+
+1652139159 e:\c++ projects\compiler\testparallel\dijkstra_tools.h
+
+1652139253 source:e:\c++ projects\compiler\testparallel\dijkstra_tools.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<limits.h>
+	<time.h>
+	<string.h>
+	<assert.h>
+	"Dijkstra_tools.h"
+
+1652139403 source:e:\c++ projects\compiler\testparallel\dijkstra_omp.c
+	<stdlib.h>
+	<errno.h>
+	<limits.h>
+	<time.h>
+	<math.h>
+	<string.h>
+	<assert.h>
+	<stdio.h>
+	<omp.h>
+	"Dijkstra_tools.h"
+

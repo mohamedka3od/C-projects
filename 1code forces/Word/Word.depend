@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575556717 source:e:\c++ projects\word\main.cpp
+	<iostream>
+	<string>
+

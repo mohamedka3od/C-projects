@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1576793249 source:e:\c++ projects\linked list.,\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<malloc.h>
+	<conio.h>
+

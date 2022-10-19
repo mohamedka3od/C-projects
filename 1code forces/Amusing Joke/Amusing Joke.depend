@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600896618 source:e:\c++ projects\1code forces\amusing joke\main.cpp
+	<iostream>
+	<string>
+	<algorithm>
+

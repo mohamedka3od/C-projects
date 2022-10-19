@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1582733136 source:e:\c++ projects\1code forces\anton and letters\main.cpp
+	<iostream>
+	<string>
+	<vector>
+

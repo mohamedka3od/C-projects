@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577981675 source:e:\c++ projects\trend line\main.cpp
+	<iostream>
+	<conio.h>
+

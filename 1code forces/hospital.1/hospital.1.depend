@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593810883 source:e:\c++ projects\1code forces\hospital.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

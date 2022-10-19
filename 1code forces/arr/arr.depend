@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590457400 source:e:\c++ projects\1code forces\arr\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

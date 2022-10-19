@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1652397563 source:e:\c++ projects\compiler\calculate pi\main.cpp
+	<iostream>
+	<cstdlib>
+	<omp.h>
+	<ctime>
+

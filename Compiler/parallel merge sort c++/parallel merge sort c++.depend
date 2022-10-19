@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1653074452 source:e:\c++ projects\compiler\parallel merge sort c++\main.cpp
+	<omp.h>
+	<iostream>
+	<vector>
+	<cstdlib>
+	<cmath>
+	<stdio.h>
+	<ctime>
+

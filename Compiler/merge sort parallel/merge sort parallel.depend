@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652474908 source:e:\c++ projects\compiler\merge sort parallel\main.c
+	<stdio.h>
+	<omp.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1653908754 source:e:\c++ projects\compiler\random1.c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<omp.h>
+	<math.h>
+
